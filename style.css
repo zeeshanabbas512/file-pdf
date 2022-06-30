@@ -1,0 +1,40 @@
+#master{
+    width: 400px;
+    height: 80vh;
+    background-color: white;
+    margin-left: 460px;
+    border-radius: 14px;
+}
+.parent h1{
+text-align: center;
+padding-top: 40px;
+color: rgba(19, 18, 18, 0.781);
+}
+.child{
+   margin-left: 24px;
+   padding-top: 20px;
+}
+.child input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+} 
+.child1{
+    padding-top: 28px;
+    margin-left: 25px;
+}
+.child1 input{
+    width:340px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.btn{
+    margin-top: 90px;
+    margin-left: 80px;
+    padding: 10px 85px;
+    border-radius: 50px;
+    background-color: rgb(75, 75, 237);
+    color: whitesmoke;
+    cursor: pointer;
+}
